@@ -1,7 +1,7 @@
 # MDTNet: Multi-scale Deformable Transformer Network with Fourier Space Losses Toward Fine-scale Spatiotemporal Precipitation Nowcasting
 ##  Problem Statement
 -- Solving the Blurry Prediction Problem in Precipitation Nowcasting through Frequency Domain Analysis
-
+<img src='https://github.com/zzcd1/Multi-scale-Deformable-Transformer-Network-with-Fourier-Space-Losses/blob/main/visualizations/fig1.jpg' width='375'/>
 ![Fig. 1. Illustrative visualizations of the blurry prediction problem from the
 frequency domain. (a), (b), (c) are the ground-truth sampled echo image, the
 predicted coarse and blurry echo image by state-of-the-art ConvLSTM [1],
