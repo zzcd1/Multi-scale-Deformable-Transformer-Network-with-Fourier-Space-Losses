@@ -2,7 +2,7 @@
 ##  Problem Statement
 -- Solving the Blurry Prediction Problem in Precipitation Nowcasting through Frequency Domain Analysis
 
-![image](https://github.com/zzcd1/Multi-scale-Deformable-Transformer-Network-with-Fourier-Space-Losses/blob/main/visualizations/fig1.pdf)
+![image](https://github.com/zzcd1/Multi-scale-Deformable-Transformer-Network-with-Fourier-Space-Losses/blob/main/visualizations/fig1.jpg)
 As shown in , the real-world long-term strong rainfall circumstances’ echo images are enriched in details and complicated in patterns, exhibiting informative and intricate high-frequency component distribution in the frequency domain. To introduce analysis of the blurry problem in precipitation nowcasting from the Fourier space, we give an illustrative visualization. Fig. 1 (a), (b), (c) show the ground-truth sampled echo image, the predicted coarse and blurry echo image by state-of-the-art ConvLSTM, and our predicted crisp echo image, respectively. Fig. 1 (d), (e), (f) are corresponding power spectrums calculated from the 2D discrete Fourier transform (DFT). Fig. 1 (g) shows the radially averaged power spectrum (RAPS). Note that some studies have explored analytical models to describe this spectral fluctuations in atmosphere. In Fig. 1 (e), it is obviously that only low frequency part in the middle of the blurry image’s spectrum is close to the ground-truth while high frequency part is almost completely lost. In Fig. 1 (g), there is severe high frequency component discrepancy between the blurry prediction result and ground-truth.
 
 
