@@ -15,4 +15,6 @@ Code is coming.
 ![living](visualizations/772.gif)
 ![living](visualizations/988.gif)
 
-<a href="http://s11.flagcounter.com/more/Tl3Q"><img src="https://s11.flagcounter.com/map/Tl3Q/size_m/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+<div align=center>
+<a href="https://info.flagcounter.com/roNu"><img src="https://s01.flagcounter.com/map/roNu/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+</div>
